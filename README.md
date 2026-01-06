@@ -36,6 +36,7 @@ variables, cache files, etc.
 1. Clone the repository:
 ```
 git clone https://github.com/agorkaissi/FlaskProject.git
+cd FlaskProject
 ```
 2. Create a virtual environment (recommended):
 ```
